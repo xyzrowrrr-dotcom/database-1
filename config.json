@@ -1,6 +1,8 @@
 {
-  "SECRET_KEY": "nabil",
   "SECRET_KEYS": [
-    "nabel"
+    "key12345",
+    "key67890",
+    "keyABCDE",
+    "keyFGHIJ"
   ]
 }
