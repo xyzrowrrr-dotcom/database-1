@@ -1,3 +1,6 @@
 {
-  "SECRET_KEY": "key12345"
+  "SECRET_KEY": "nab",
+  "SECRET_KEYS": [
+    "nabel"
+  ]
 }
