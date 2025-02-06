@@ -1,8 +1,6 @@
 {
+  "SECRET_KEY": "nab",
   "SECRET_KEYS": [
-    "key12345",
-    "key67890",
-    "keyABCDE",
-    "keyFGHIJ"
+    "nabel"
   ]
 }
