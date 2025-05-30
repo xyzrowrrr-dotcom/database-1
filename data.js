@@ -7,6 +7,7 @@
     "8189787523:AAH95lplfZ1F_jH9Q3fRmugXt3UqJNR04kI",
     "<8030063427:AAEN-mxjryvo_uFi7aGK4DOW4rPCn-j4xc0_bot_telegram>",
     "<8030063427:AAEN-mxjryvo_uFi7aGK4DOW4rPCn-j4xc0_fardan_botz>",
-    "<8030063427:AAEN-mxjryvo_uFi7aGK4DOW4rPCn-j4xc0>"
+    "<8030063427:AAEN-mxjryvo_uFi7aGK4DOW4rPCn-j4xc0>",
+    "8030063427:AAEN-mxjryvo_uFi7aGK4DOW4rPCn-j4xc0"
   ]
 }
