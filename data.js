@@ -10,6 +10,7 @@
     "<8030063427:AAEN-mxjryvo_uFi7aGK4DOW4rPCn-j4xc0>",
     "8030063427:AAEN-mxjryvo_uFi7aGK4DOW4rPCn-j4xc0",
     "7373690877:AAEN12e9WeVQHoeT7WKh5js7Voh_vtxkMMA",
-    "Razxy_bot"
+    "Razxy_bot",
+    "7599530103:AAFD-ac0LuFfsPc-sSZadpW72Mnzh2G80SM"
   ]
 }
