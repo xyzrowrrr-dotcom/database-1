@@ -13,6 +13,7 @@
     "Razxy_bot",
     "7599530103:AAFD-ac0LuFfsPc-sSZadpW72Mnzh2G80SM",
     "@RazxT_bot",
-    "8041965714:AAHa-JNBEoMkvgR9tPPq_SO_x25AYd7NIKw"
+    "8041965714:AAHa-JNBEoMkvgR9tPPq_SO_x25AYd7NIKw",
+    "7915927337:AAEyCFM3Mo1x-FSxhYpOWzL78_D3ba0quG8"
   ]
 }
