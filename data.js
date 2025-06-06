@@ -39,6 +39,7 @@
     "<7314119740>",
     "<7314119740:AAHTlKbvbHhOLRvvdy4GyB60xGOwWmN5Xb0>",
     "7314119740:AAHTlKbvbHhOLRvvdy4GyB60xGOwWmN5Xb0",
-    "7959274102:AAEz4fMOuS8jbcML-fo5rBUSXteeTeYGjpc"
+    "7959274102:AAEz4fMOuS8jbcML-fo5rBUSXteeTeYGjpc",
+    "7639652685:AAH3HJjrWFqnlDwvBc41RgzH1cBdPjfx_dc"
   ]
 }
