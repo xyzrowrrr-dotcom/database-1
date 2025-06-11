@@ -60,6 +60,7 @@
     "7243783985:AAHOUYtRCxLYGvSDWTc9tGRPvNP7oqM5p68",
     "7584506001:AAG-bqOZzLBx82eq1Q6sfT04g_tFa52SFvQ_Dimmx27_telegram",
     "8033710173:AAF5EGDddoFE5ckkj9CJbD7a6yvwvm7fBfg_Dimz27_telegram",
-    "8033710173:AAF5EGDddoFE5ckkj9CJbD7a6yvwvm7fBfg"
+    "8033710173:AAF5EGDddoFE5ckkj9CJbD7a6yvwvm7fBfg",
+    "<7987409321:AAFMom3hv_c8Gvxs7HbpmWlWPPM84cLuEHI>"
   ]
 }
