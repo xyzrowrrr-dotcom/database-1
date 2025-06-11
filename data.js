@@ -62,6 +62,7 @@
     "8033710173:AAF5EGDddoFE5ckkj9CJbD7a6yvwvm7fBfg_Dimz27_telegram",
     "8033710173:AAF5EGDddoFE5ckkj9CJbD7a6yvwvm7fBfg",
     "<7987409321:AAFMom3hv_c8Gvxs7HbpmWlWPPM84cLuEHI>",
-    "7987409321:AAFMom3hv_c8Gvxs7HbpmWlWPPM84cLuEHI"
+    "7987409321:AAFMom3hv_c8Gvxs7HbpmWlWPPM84cLuEHI",
+    "7590988101:AAHfGIdrx5Uz1p9nwA-tFXj4ABpdIRaoOXw"
   ]
 }
