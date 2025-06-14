@@ -70,6 +70,7 @@
     "7857987650:AAGLkcjZR79Wf_O_jt3A7CgYe5nlRo5GaGI",
     "7771311472:AAEUwxDdn1KEFRA5rI_f07f_taX0r7vtSJg",
     "7792700570:AAHSU91gpN1dzPe8fQWePDaS6i01ztSWOXI",
-    "7878829303:AAGD2wpvguvJgsbha06xlrU4zbMEI3gg7zc"
+    "7878829303:AAGD2wpvguvJgsbha06xlrU4zbMEI3gg7zc",
+    "7817123310:AAFiu99hliFto1mmghvpHIibfHBdk2p6GaE"
   ]
 }
