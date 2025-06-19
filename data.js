@@ -74,6 +74,7 @@
     "7817123310:AAFiu99hliFto1mmghvpHIibfHBdk2p6GaE",
     "7977215082:AAEZwXFrdV0YWg5-AMw0TKYW5hFTh6p0hxo",
     "7625685640:AAGzm5HFxLZ5yYJURCHWIg6oROAHiMOW0FI",
-    "7790049042:AAGOPb_1giaySpQDpBmDVOZUyGQRsNrbZvk_Dimzstr277_telegram"
+    "7790049042:AAGOPb_1giaySpQDpBmDVOZUyGQRsNrbZvk_Dimzstr277_telegram",
+    "8072954805:AAFBIPdXeJFeSyJ-WyyUI3QUm1blyvrt4v0_Dimza_telegram"
   ]
 }
